@@ -1,0 +1,21 @@
+[
+	{
+		"Title" : "Python Crash Course",
+		"Author" : ["Eric Mathes"],
+		"Recommended Users" : "beginner",
+		"Breadth" : "Broad"
+	},	
+	{
+		"Title" : "Learning Python",
+		"Author" : ["Mark Lutz"],
+		"Breadth" : "Complete",
+		"Recommended Users" : "beginner to advanced"
+	},
+	{
+		"Title" : "Learning scikit-learn: Machine Learning in Python",
+		"Author" : ["Raul Garreta", "Guillermo Moncecchi"],
+		"Focus" : "Analytics",
+		"Recommended Users" : "Beginner to intermediate"
+	}
+]
+	

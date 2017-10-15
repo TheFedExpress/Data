@@ -1,0 +1,25 @@
+<?xml version = "1.0"?>
+	<PythonBooks>
+		<book id = "1">
+			<title>Python Crash Course</title>
+			<author>Eric Mathes</author>
+			<breadth>Broad</breadth>
+			<RecommendedUser>Beginner</RecommendedUser>
+			<Focus>Development</Focus>
+		</book>
+		<book id = "2">
+			<title>Learning Python</title>
+			<author>Mark Lutz</author>
+			<breadth>Complete</breadth>
+			<RecommendedUser>Beginner to Advanced</RecommendedUser>
+			<Focus>Development</Focus>
+		</book>
+		<book id = "3">
+			<title>Learning scikit-learn: Machine Learning in Python</title>
+			<author>Raul Garreta</author>
+			<author2>Guillermo Moncecchi</author2>
+			<breadth>Narrow</breadth>
+			<RecommendedUser>Beginner to Intermediate</RecommendedUser>
+			<Focus>Analytics</Focus>
+		</book>
+	</PythonBooks>
